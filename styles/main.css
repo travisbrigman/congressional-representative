@@ -1,0 +1,22 @@
+.representative {
+    display: flex;
+    font: 1em "roboto";
+    align-content: center;
+    justify-content: space-evenly;
+}
+
+.basicInfo {
+
+}
+
+.committees {
+
+}
+
+.legislation {
+
+}
+
+.heading {
+    font: 2em "helvetica"
+}
